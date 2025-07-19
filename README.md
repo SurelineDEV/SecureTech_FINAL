@@ -151,3 +151,4 @@ This package contains everything needed to run SecureTech independently. All dem
 - `client/build/` - Production React frontend
 - `requirements.txt` - All Python dependencies
 
+# SecureTech Platform
