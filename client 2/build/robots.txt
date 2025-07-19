@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+
+# SecureTech - Private Development Environment
+# This is a confidential staging environment
+# Not for public indexing or crawling
+
